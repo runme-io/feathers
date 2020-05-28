@@ -26,6 +26,8 @@ $ feathers generate app
 $ npm start
 ```
 
+To see result click [![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=7400b5ea-657e-4378-941b-34d8314e0bd9)
+
 To learn more about Feathers visit the website at [feathersjs.com](http://feathersjs.com) or jump right into [the Feathers guides](http://docs.feathersjs.com/guides).
 
 ## Support
